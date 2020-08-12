@@ -48,7 +48,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32-2.png",
     "cssOptimize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,7 +59,8 @@
     "pwa-switcher": false,
     "uniqCompNum": 18,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
